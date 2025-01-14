@@ -1,0 +1,13 @@
+name: mshg
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bedtools=2.31.1
+  - bioawk=1.0
+  - biopython=1.84
+  - bwa=0.7.18
+  - cutadapt=4.9
+  - fastp=0.23.4
+  - pandas=2.2.2
+  - samtools=1.20
